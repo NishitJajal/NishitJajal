@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishit
-- 👀 I’m interested in web technology
-- 🌱 I’m currently learning JAVA and Web technology
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning JAVA.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
