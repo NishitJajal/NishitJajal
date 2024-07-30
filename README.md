@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishit
-- 👀 I’m interested in software development.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JAVA.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
