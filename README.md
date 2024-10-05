@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishit Jajal</h1>
 <h3 align="center">A passionate developer and technology enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NishitJajal&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
 - 📫 How to reach me **jajalnishit@gmail.com**
 
@@ -27,17 +27,17 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NishitJajal&show_icons=true&theme=radical" alt="yourusername" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=radical" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NishitJajal&show_icons=true&locale=en&layout=compact&theme=radical" alt="yourusername" />
 </p>
 
 ---
 
 <h3 align="left">GitHub Trophies:</h3>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical" alt="yourusername" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=NishitJajal&theme=radical" alt="yourusername" /> </p>
 
 ---
 
