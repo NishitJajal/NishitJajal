@@ -40,12 +40,6 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=NishitJajal&theme=radical" alt="yourusername" /> </p>
 
 ---
-
-<h3 align="left">GitHub Activity Graph:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NishitJajal&theme=radical" alt="yourusername" />
-</p>
-
 ---
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
