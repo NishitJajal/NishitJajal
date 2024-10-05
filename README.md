@@ -43,7 +43,7 @@
 
 <h3 align="left">GitHub Activity Graph:</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical" alt="yourusername" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NishitJajal&theme=radical" alt="yourusername" />
 </p>
 
 ---
