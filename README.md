@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/github/followers/NishitJajal?label=Followers&style=social" alt="NishitJajal" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Developer GIF">
-</p>
-
 - 📫 How to reach me **jajalnishit@gmail.com**  
 - ⚡ Fun fact **I love building fun projects and solving coding challenges!**  
 
@@ -40,13 +36,6 @@
 <h3 align="center">🏆 GitHub Trophies:</h3>
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=NishitJajal&theme=radical" alt="yourusername" /> 
-</p>
-
----
-
-<h3 align="center">📈 GitHub Activity Graph:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NishitJajal&theme=radical" alt="yourusername" />
 </p>
 
 ---
